@@ -1,0 +1,53 @@
+﻿DJ Phonetic Symbol,K.K. phonetic symbol,UK-style annotation in Cambridge/LONGMAN Dictionary ,US-style annotation in Cambridge/LONGMAN Dictionary ,Examples,CMU Phoneme Set,CMU Phoneme Set + 2 Extra,Adjusted Phoneme Set regardding to DJ Phonetic Symbol
+ɑ,[ɑ],ɑː,ɑːr,mark,AA + R,AA + R,"AA, AA + R"
+ɑ,[æ],ɑː,æ,ask,AE,AE,"AE, AA"
+æ,[æ],æ,æ,at,AE,AE,AE
+ə,[ə],ə,ə,about,AH,AH0,"AH0, ER0"
+ə,[ɚ],ə,ər,better,ER,ER0,"ER0, AH0, AH0 R"
+ʌ,[ʌ],ʌ,ʌ,hut,AH,AH,AH
+ɔ,[ɔ],ɔː,ɔː,ought,AO,AO,"AO, AA"
+ɔ,[ɑ],ɔː,ɑː,caught,AA,AA,"AO, AA"
+ɒ,[ɑ],ɒ,ɑː,"box,cough",AA,AA,"AA, AO"
+ɒ,[ɔ],ɒ,ɔː,tomorrow,AO,AO,"AO, AA"
+ɛ,[ɛ],e,e,pen,EH,EH,EH
+ɜ,[ɝ],ɜː,ɜːr,hurt,ER,ER,"ER, ER R"
+ɪ,[ɪ],ɪ,ɪ,it,IH,IH,IH
+i,[i],iː,iː,eat,IY,IY,IY
+ʊ,[ʊ],ʊ,ʊ,hood,UH,UH,UH
+u,[u],uː,uː,two,UW,UW,UW
+eɪ,[e],eɪ,eɪ,ate,EY,EY,EY
+aʊ,[aʊ],aʊ,aʊ,cow,AW,AW,AW
+aɪ,[aɪ],aɪ,aɪ,hide,AY,AY,AY
+ɪə,[ɪ] + [r],ɪə,ɪr,rear,IH + R,IH + R,"IH R, IH AH0 "
+eə,[ɛ] + [r],eə,er,bear,EH + R,EH + R,"EH R, EH AH0"
+ʊə,[ʊ] + [r],ʊə,ʊr,tour,UH + R,UH + R,"UH R, UH AH0"
+əʊ,[o],əʊ,oʊ,oat,OW,OW,OW
+ɔɪ,[ɔɪ],ɔɪ,ɔɪ,toy,OY,OY,OY
+b,[b],b,b,be,B,B,B
+tʃ,[tʃ],tʃ,tʃ,cheese,CH,CH,CH
+d,[d],d,d,desk,D,D,D
+ð,[ð],ð,ð,that,DH,DH,DH
+f,[f],f,f,fee,F,F,F
+ɡ,[g],ɡ,ɡ,green,G,G,G
+h,[h],h,h,he,HH,HH,HH
+dʒ,[dʒ],dʒ,dʒ,joke,JH,JH,JH
+k,[k],k,k,key,K,K,K
+l,[l],l,l,leg,L,L,L
+m,[m],m,m,me,M,M,M
+n,[n],n,n,knee,N,N,N
+ŋ,[ŋ],ŋ,ŋ,ping,NG,NG,NG
+p,[p],p,p,pee,P,P,P
+r,[r],r,r,read,R,R,R
+s,[s],s,s,sea,S,S,S
+ʃ,[ʃ],ʃ,ʃ,she,SH,SH,SH
+t,[t],t,t,tea,T,T,T
+θ,[θ],θ,θ,theta,TH,TH,TH
+v,[v],v,v,vee,V,V,V
+w,[w],w,w,we,W,W,W
+j,[j],j,j,yield,Y,Y,Y
+z,[z],z,z,zee,Z,Z,Z
+ʒ,[ʒ],ʒ,ʒ,seizure,ZH,ZH,ZH
+ts,[t] + [s],ts,ts,cats,T + S,T + S,T S
+tr,[t] + [r],tr,tr,tree,T + R,T + R,T R
+dr,[d] + [r],dr,dr,dream,D + R,D + R,D R
+dz,[d] + [z],dz,dz,beds,D + Z,D + Z,D Z
